@@ -1,4 +1,4 @@
-### metromove-transit-analytics
+
 
 ### Project overview
 
@@ -58,5 +58,19 @@ Analysis result are summarize as follows.
 3. the Airport station lead all others on both arrival and departure station.
 
    ### Recommendation
-e
-   
+- Base on the analysis we recommend the following
+- Trams account for only 13.3% of the trips yet maintain competitive average fare ,Expanding trams route into underserved
+ corridors, can shift volume from buses and reduce congestion
+- Thursday records the lowest trip count 118 trips targeted promotions-discounted fares, employer commuter partnership or
+   event-based routes could stimulate demand on this low day,
+-  The Airport is the single busiest hub for boy arrival and departure. A dedicated high-frequency Express service (bus or     train) linking the a The airport to downtown and central station would capture high-value passenger and boost average      fare Revenue
+
+
+
+
+
+
+
+
+
+
