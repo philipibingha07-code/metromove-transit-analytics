@@ -1,4 +1,13 @@
+## Metromove-transit-analytics
 
+ ### Table of content
+-  [Project Overview](#project-overview)
+-  [Tool](#tool )
+-  [Exploratory data analysis](#exploratory-data-analysis )
+-  [Data analysis](#data-analysis )
+-  [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+-  [Exploratory Data Analysis](#exploratory-data-analysis)
+-  [Results and Findings](#results-and-findings)
 
 ### Project overview
 
@@ -18,7 +27,7 @@ made by the company.
 - pandas-Data cleaning and KPI computation[]()
 - Jupyter Notebook- Exploratory data analysis
 
-- ## Data cleaning/Preparation
+- ## Data cleaning and Preparation
  
 in the initial preparation Phase, we perform the following:
 1. Data loading and inspection.
@@ -49,7 +58,7 @@ def trip_type(x):
 
 df["trip_type"] = df["Trip_Duration_Minutes"].apply(trip_type)
 
-### Resulting/Findings
+### Results and Findings
 
 Analysis result are summarize as follows.
 1. with 32.2% per trips, the Bus network is the backbone of MetroMoves service. Generating the highest Revenue
