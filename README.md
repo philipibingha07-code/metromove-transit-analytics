@@ -8,7 +8,7 @@
 -  [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 -  [Exploratory Data Analysis](#exploratory-data-analysis)
 -  [Results and Findings](#results-and-findings)
-
+- [Recommendation](#recommendation)
 ### Project overview
 
 MetroMove Transit Analytics is an end-to-end data analytics and reporting project built
