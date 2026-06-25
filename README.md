@@ -45,7 +45,15 @@ in the initial preparation Phase, we perform the following:
   
     ### Data analysis
 
-      ```python
+
+<img width="740" height="318" alt="another github" src="https://github.com/user-attachments/assets/92405620-e763-4844-8bc8-7c8f8c308579" />
+<img width="566" height="327" alt="no gradelines" src="https://github.com/user-attachments/assets/ae5000a1-4820-4e5c-a859-06dce94f55ed" />
+
+
+
+
+
+    ```python
       df["Trip_Duration_Minutes"] = pd.to_numeric(df["Trip_Duration_Minutes"], errors="coerce")
 
 def trip_type(x):
@@ -56,7 +64,7 @@ def trip_type(x):
     else:
         return ">=101 long trip"
 
-df["trip_type"] = df["Trip_Duration_Minutes"].apply(trip_type)
+
 
 ### Results and Findings
 
