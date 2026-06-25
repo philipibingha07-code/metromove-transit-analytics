@@ -44,29 +44,14 @@ in the initial preparation Phase, we perform the following:
    5.  Which transport mode carries the most trips?
   
     ### Data analysis
-
+MetroMove Transport is a growing UK transportation company. My analysis evaluates key KPIs, including revenue, monthly trip types, fare amounts, and weekly trip volumes, to uncover business insights and growth opportunities. The recommendations support Marketing, Product, and Operations teams in optimizing performance, improving decision-making, and driving sustainable growth.
 
 <img width="740" height="318" alt="another github" src="https://github.com/user-attachments/assets/92405620-e763-4844-8bc8-7c8f8c308579" />
 <img width="566" height="327" alt="no gradelines" src="https://github.com/user-attachments/assets/ae5000a1-4820-4e5c-a859-06dce94f55ed" />
 
 
-
-
-
-    ```python
-      df["Trip_Duration_Minutes"] = pd.to_numeric(df["Trip_Duration_Minutes"], errors="coerce")
-
-def trip_type(x):
-    if x <= 50:
-        return "<=50 very short trip"
-    elif x <= 100:
-        return "51-100 short trip"
-    else:
-        return ">=101 long trip"
-
-
-
-### Results and Findings
+   
+ ### Results and Findings
 
 Analysis result are summarize as follows.
 1. with 32.2% per trips, the Bus network is the backbone of MetroMoves service. Generating the highest Revenue
