@@ -5,7 +5,7 @@
 -  [Tool](#tool )
 -  [Exploratory data analysis](#exploratory-data-analysis )
 -  [Data analysis](#data-analysis )
--  [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+-  [Data Cleaning and Preparation](#data-cleaning-and-preparation) 
 -  [Exploratory Data Analysis](#exploratory-data-analysis)
 -  [Results and Findings](#results-and-findings)
 - [Recommendation](#recommendation)
